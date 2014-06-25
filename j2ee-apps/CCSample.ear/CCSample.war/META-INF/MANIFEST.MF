@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+ATG-Module-Uri: CCSample.war
+ATG-Context-Root: /CCSample
+ATG-Module-Version: CCSample.war
